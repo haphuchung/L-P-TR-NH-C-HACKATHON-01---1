@@ -6,7 +6,7 @@ int main(){
     int sum = 0;
 
     while (1){
-        printf("\n--- MENU ---\n");
+        printf("MENU \n");
         printf("1. Nhap mang\n");
         printf("2. In mang\n");
         printf("3. Tim gia tri nho nhat va lon nhat\n");
