@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-intmain(){
+int main(){
     int arr[100]; 
     int n = 0;    
     int choice;
@@ -82,6 +81,7 @@ intmain(){
 
             default:
                 printf("Lua chon khong hop le, vui long thu lai!\n");
+            }
         }
     }
 
